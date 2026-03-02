@@ -1,6 +1,6 @@
 // Code Practice: Tiny Tween Chain
-// Name:
-// Date:
+// Name: Nick Marigo
+// Date: 3/2/26
 
 // CODE ARMOR
 'use strict'
